@@ -1,0 +1,34 @@
+{
+  "name": "hubot-slack-overflow",
+  "description": "Share Stack Overflow answers with your Slack team using Hubot",
+  "version": "1.0.0",
+  "author": "Dan Lewis",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "slack",
+    "hubot-slack-overflow",
+    "stackoverflow",
+    "stack",
+    "overflow"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdanlewis/hubot-slack-overflow.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/jdanlewis/hubot-slack-overflow/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "stackexchange": "0.3.0",
+    "html-entities": "1.2.0"
+  },
+
+  "main": "index.coffee"
+}
