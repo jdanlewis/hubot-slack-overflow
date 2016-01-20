@@ -25,4 +25,4 @@ bin/hubot --adapter slack
 
 ## Commands
 
- * overflow <query> - searches Stack Overflow for <query>
+ * overflow `query` - searches Stack Overflow for `query`
